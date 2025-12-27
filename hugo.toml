@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://redhex16.github.io/blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'RedHex16 Blog'
 theme = 'PaperMod'
 [caches]
   [caches.images]
